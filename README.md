@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-##I enjoy making all sorts of things — from writing code to experimenting with different design styles. Most of the time, you'll find me playing around with 3D and 2D graphics, but I thought it would be fun to set up this page too.
+I enjoy making all sorts of things — from writing code to experimenting with different design styles. Most of the time, you'll find me playing around with 3D and 2D graphics, but I thought it would be fun to set up this page too.
 
 <!--
 **2met7cen/2met7cen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
